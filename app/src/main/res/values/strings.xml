@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Squats Challenge. Buttocks and Legs</string>
+    <string name="test_label">Initial test</string>
+    <string name="select_level_label">Select Level</string>
+    <!-- ActiviteAccueil Activity String -->
+    <string name="btn_entrainement">Training</string>
+    <string name="total">TOTAL</string>
+    <string name="stats">Statistic</string>
+    <string name="lastDay">Congratulations, you have terminated the training scheduel.</string>
+    <!-- ActiviteAvantEntrainement Activity String -->
+    <string name="btn_demarrer">Start</string>
+    <string name="level_select">Choose level</string>
+    <string name="same_day">Repeat training day</string>
+    <string name="next_day">Next day</string>
+    <!-- ActiviteEntrainement Activity String -->
+    <string name="negatives">exercises</string>
+    <string name="complet">Complet</string>
+    <!-- Select Level Activity String -->
+    <string name="validate">Validate</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="no_level_selected">No day chosen</string>
+    <string name="level">Level</string>
+    <!-- ActiviteCompteARebours Activity String -->
+    <string name="btn_passer">Skip</string>
+    <!-- ActiviteStatistiques Activity String -->
+    <string name="stats_label">Statistics</string>
+    <string name="stats_by_level">Statistics by level</string>
+    <string name="stats_by_day">Statistics by day</string>
+    <!-- Alarm Activity -->
+    <string name="Lundi">Monday</string>
+    <string name="Mardi">Tuesday</string>
+    <string name="Mercredi">Wednesday</string>
+    <string name="Jeudi">Thursday</string>
+    <string name="Vendredi">Friday</string>
+    <string name="Samedi">Saturday</string>
+    <string name="Dimanche">Sunday</string>
+    <string name="monday" translatable="false">monday</string>
+    <string name="thuesday" translatable="false">thuesday</string>
+    <string name="wednesday" translatable="false">wednesday</string>
+    <string name="thursday" translatable="false">thursday</string>
+    <string name="friday" translatable="false">friday</string>
+    <string name="saturday" translatable="false">saturday</string>
+    <string name="sunday" translatable="false">sunday</string>
+    <string name="testMessage">You are going to run a test to define your level.</string>
+    <string name="annuler">Cancel</string>
+    <string name="str_backToMain">Validate to get back. Progression will be lost</string>
+    <string name="lost_progression">Progression lost</string>
+    <string name="negativeFalse">Warm-up before doing the training series.</string>
+    <string name="negativeTrue">Carfull!!!  You will neeed to do exercises</string>
+    <string name="selectDay">Select a day</string>
+    <string name="str_backtoTraining">Press again to continue training</string>
+    <string name="str_bravo">Congratulation. Rest before next training day</string>
+    <string name="str_entrainement_termine">Training day completed</string>
+    <string name="levelTest">Level test</string>
+    <string name="nbr_tractions">Number</string>
+    <string name="error_edtText_empty">field empty</string>
+    <string name="error_edtText_length">Min 0 - Max 50</string>
+    <!-- Menu -->
+    <string name="alarme">Alarm</string>
+    <string name="rest">Rest</string>
+    <string name="deleteData">Reset</string>
+    <!-- Notification -->
+    <string name="notification_title">Training day</string>
+    <string name="notification_content">It\'s time to train</string>
+    <string name="displayLevelFormatComa">Let\'s go>LEVEL %1$.1f"</string>
+    <string name="displayLevelFormat">LEVEL %1$.0f"</string>
+    <string name="TitleLevel">LEVEL %1$.1f</string>
+    <string name="displayDayActiviteChoixDuNiveau">"Day %1$d"</string>
+    <string name="end_training">END</string>
+    <string name="pull_up">repetitions</string>
+    <string name="congratulations">Congrats!</string>
+    <string name="niveauSelectionne">Level %1$.1f selected</string>
+    <string name="recordDeTraction">"Personal record    %1$d "</string>
+    <string name="seriedujour">Series of the day</string>
+    <string name="recuperationStatistiques">Retrieving statistics</string>
+    <string name="statsTotalDeTractions">Total</string>
+    <string name="erreurDansAffichageStatistiques">Error in the statistics display</string>
+    <string name="reminderSet">Reminder set Successfully!</string>
+    <string name="reminderNotSet">Reminder Not set Successfully!</string>
+    <string name="heure_alarme">10:00</string>
+    <string name="reset_confirm">Do you really want to reset all the data?</string>
+    <string name="succesfullreset">Programm reseted succefuly</string>
+    <string name="google_app_id" translatable="false">uplifted-cider-123421</string>
+    <string name="str_BackTitle">Leave/Stop training</string>
+    <string name="str_LeaveApp">Leave application?</string>
+    <string name="str_confimLeaveApp">Do you really want to leave application?</string>
+
+
+    <string name="dialog_default_title" translatable="false">Here\'s a message!</string>
+    <string name="dialog_ok" translatable="false">OK</string>
+    <string name="dialog_cancel" translatable="false">Cancel</string>
+
+
+</resources>

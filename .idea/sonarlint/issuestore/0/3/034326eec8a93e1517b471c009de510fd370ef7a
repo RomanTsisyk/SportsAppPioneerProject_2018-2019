@@ -1,0 +1,32 @@
+
+m	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Æõü8Ëá˜Ê1
+r	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ø×’üÿÿÿÿ8Ëá˜Ê1
+s	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËåúŸüÿÿÿÿ8Ëá˜Ê1
+D
+java:S1604P"(Make this anonymous inner class a lambda(ÙÓ@8Ëá˜Ê1
+J
+java:S1604Z"(Make this anonymous inner class a lambda(Ïø¹§øÿÿÿÿ8Ëá˜Ê1
+D
+java:S1604d"(Make this anonymous inner class a lambda(‘ˆ®i8Ëá˜Ê1
+F
+java:S1604•"(Make this anonymous inner class a lambda(÷¸¹Ë8Ëá˜Ê1
+i
+java:S2259°"KA "NullPointerException" could be thrown; "listeDuNiveau" is nullable here.(¶Ê—…8 Ëá˜Ê1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ú‰ûÁùÿÿÿÿ8 Ëá˜Ê1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ò¶ìßıÿÿÿÿ8 Ëá˜Ê1
+‡	java:S116"fRename this field "str_numeroNouveauJourChoisi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÚåøÿÿÿÿ8 Ëá˜Ê1
+‡	java:S116 "fRename this field "int_numeroNouveauJourChoisi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éêçÈÿÿÿÿÿ8 Ëá˜Ê1
+n	java:S116/"MRename this field "UN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆæßëüÿÿÿÿ8 Ëá˜Ê1
+k	java:S1160"ORename this field "ZERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÁµÙ8 Ëá˜Ê1
+v	java:S1161"URename this field "LIMITE_INF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢†ÄËûÿÿÿÿ8 Ëá˜Ê1
+v	java:S1162"URename this field "LIMITE_SUP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÃ³àúÿÿÿÿ8 Ëá˜Ê1
+C
+java:S1170/"!Make this final field static too.(ˆæßëüÿÿÿÿ8 Ëá˜Ê1
+>
+java:S11700"!Make this final field static too.(®ÁµÙ8 Ëá˜Ê1
+C
+java:S11701"!Make this final field static too.(¢†ÄËûÿÿÿÿ8 Ëá˜Ê1
+C
+java:S11702"!Make this final field static too.(ìÃ³àúÿÿÿÿ8 Ëá˜Ê1
+E
+java:S1185"(Remove this method to simply inherit it.(ºŠñ=8¯Ëá˜Ê1

@@ -1,0 +1,61 @@
+
+E
+java:S1604X"(Make this anonymous inner class a lambda(™¯·®8üúÂ˜Ê1
+J
+java:S1604d"(Make this anonymous inner class a lambda(§«ú±ûÿÿÿÿ8üúÂ˜Ê1
+K
+java:S1604î"(Make this anonymous inner class a lambda(§«ú±ûÿÿÿÿ8ÖíÎ˜Ê1
+F
+java:S1604÷"(Make this anonymous inner class a lambda(™¯·®8ÖíÎ˜Ê1
+n	java:S101x"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßõÓÜüÿÿÿÿ8Ý¤Æ˜Ê1
+~	java:S116"]Rename this field "REQUESTCODEWORKOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãðž¸ýÿÿÿÿ8›ûÂ˜Ê1
+k	java:S116"ORename this field "ZERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÁµÙ8ï›Ï˜Ê1
+n	java:S116"MRename this field "UN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆæßëüÿÿÿÿ8ï›Ï˜Ê1
+l	java:S116"QRename this field "QUATRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Úž8ï›Ï˜Ê1
+k	java:S116"PRename this field "TROIS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡×Ž)8ï›Ï˜Ê1
+p	java:S116"ORename this field "DEUX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úª‰¡ùÿÿÿÿ8ï›Ï˜Ê1
+k	java:S116 "ORename this field "CINQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‚ÚÜ8ï›Ï˜Ê1
+j	java:S116!"NRename this field "SIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝÔœˆ8ï›Ï˜Ê1
+‚	java:S116""fRename this field "DERNIER_JOUR_D_ENTRAINEMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÏô8›ûÂ˜Ê1
+{	java:S116#"`Rename this field "str_NombreDeTractions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôíi8›ûÂ˜Ê1
+v	java:S116$"ZRename this field "str_JourEnCours" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¨Ÿ©8›ûÂ˜Ê1
+€	java:S1165"eRename this field "txtView_TractionsNegatives" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ç/8ü¤Æ˜Ê1
+w	java:S1166"[Rename this field "txtView_Nbrtotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÒÒ’8›ûÂ˜Ê1
+y	java:S116:"XRename this field "imgView_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÆ•®ûÿÿÿÿ8ü¤Æ˜Ê1
+C
+java:S1170"!Make this final field static too.(Ãðž¸ýÿÿÿÿ8›ûÂ˜Ê1
+>
+java:S1170"!Make this final field static too.(®ÁµÙ8þ›Ï˜Ê1
+C
+java:S1170"!Make this final field static too.(ˆæßëüÿÿÿÿ8þ›Ï˜Ê1
+=
+java:S1170"!Make this final field static too.(¢Úž8û”Ð˜Ê1
+=
+java:S1170"!Make this final field static too.(‡×Ž)8øÔÏ˜Ê1
+C
+java:S1170"!Make this final field static too.(úª‰¡ùÿÿÿÿ8û”Ð˜Ê1
+>
+java:S1170 "!Make this final field static too.(³‚ÚÜ8û”Ð˜Ê1
+>
+java:S1170!"!Make this final field static too.(ÝÔœˆ8û”Ð˜Ê1
+>
+java:S1170""!Make this final field static too.(ÕÏô8›ûÂ˜Ê1
+=
+java:S1170#"!Make this final field static too.(Ôíi8›ûÂ˜Ê1
+>
+java:S1170$"!Make this final field static too.(ø¨Ÿ©8›ûÂ˜Ê1
+g
+java:S1659/"JDeclare "vueDeLaSerie2" and all following declarations on a separate line.(žÍª·8†¥Æ˜Ê1
+m
+java:S16594"PDeclare "txtViewEntrainement" and all following declarations on a separate line.(þÌ·Ï8‡¥Æ˜Ê1
+P
+java:S16598".Declare "btnChoixDuNiveau" on a separate line.(žõÃÐûÿÿÿÿ8‡¥Æ˜Ê1
+E
+java:S1185t"(Remove this method to simply inherit it.(Ù«µ§8‡¥Æ˜Ê1
+\
+java:S1854~":Remove this useless assignment to local variable "tabNbr".(¥á¯Õþÿÿÿÿ8‡¥Æ˜Ê1
+?	java:S131‘""Add a default case to this switch.(ãˆ¯æ8úíÎ˜Ê1
+K
+java:S1185œ"(Remove this method to simply inherit it.(èüù±ùÿÿÿÿ8ŠîÎ˜Ê1
+Z
+java:S3398Á"7Move this method into "creationTableauDesSeriesDuJour".(†¹¬¹øÿÿÿÿ8ŠîÎ˜Ê1

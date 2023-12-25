@@ -1,0 +1,13 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³ê8…Â—Ê1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÅ…È
+r	java:S116"QRename this field "int_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÀÇ–øÿÿÿÿ8…Â—Ê1
+v	java:S116"URename this field "int_id_day" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎåÜ¨üÿÿÿÿ8…Â—Ê1
+s	java:S116"RRename this field "str_day" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã°€Ûûÿÿÿÿ8…Â—Ê1
+u	java:S116"TRename this field "str_Heure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ö¨àùÿÿÿÿ8…Â—Ê1
+t	java:S116	"SRename this field "int_hour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹®¥şÿÿÿÿ8…Â—Ê1
+s	java:S116
+"RRename this field "int_min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÒÏ‘øÿÿÿÿ8…Â—Ê1
+y	java:S116"XRename this field "bln_alarmeSet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä§ˆŸúÿÿÿÿ8…Â—Ê1
+o	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Î¦æüÿÿÿÿ8…Â—Ê1
+j	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¤ä¤8…Â—Ê1

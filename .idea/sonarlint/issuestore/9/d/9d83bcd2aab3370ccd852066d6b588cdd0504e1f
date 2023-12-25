@@ -1,0 +1,15 @@
+
+>
+java:S1604o"(Make this anonymous inner class a lambda(ô½èù
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÖõÿÿÿÿÿ
+—
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ«Ôƒ
+œ
+java:S1186|"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úƒÚÓûÿÿÿÿ
+V
+java:S1161Œ":Add the "@Override" annotation above this method signature(¨Œşÿÿÿÿ
+8	java:S131Ì""Add a default case to this switch.(ˆ‡Î­
+I
+java:S1874‡"3Remove this use of "getDrawable"; it is deprecated.(„¢ü6
+P
+java:S1161Ò":Add the "@Override" annotation above this method signature(ºŠñ=

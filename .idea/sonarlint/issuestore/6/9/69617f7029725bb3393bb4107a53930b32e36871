@@ -1,0 +1,32 @@
+
+Q
+java:S3740i"/Provide the parametrized type for this generic.(¤ì’˜üÿÿÿÿ8¤Šó—Ê1
+r	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò´„éùÿÿÿÿ8¤Šó—Ê1
+m	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ°žå8¤Šó—Ê1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒÈ¸Ýûÿÿÿÿ
+k	java:S116"ORename this field "ZERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÁµÙ8´Šó—Ê1
+n	java:S116"MRename this field "UN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆæßëüÿÿÿÿ8´Šó—Ê1
+k	java:S116 "ORename this field "CINQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‚ÚÜ8´Šó—Ê1
+s	java:S116!"RRename this field "ANIMATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽŠ¾ãøÿÿÿÿ8´Šó—Ê1
+>
+java:S1170"!Make this final field static too.(®ÁµÙ8ÄŠó—Ê1
+C
+java:S1170"!Make this final field static too.(ˆæßëüÿÿÿÿ8ÄŠó—Ê1
+>
+java:S1170 "!Make this final field static too.(³‚ÚÜ8ÄŠó—Ê1
+C
+java:S1170!"!Make this final field static too.(ŽŠ¾ãøÿÿÿÿ8ÄŠó—Ê1
+w
+java:S1450*"ZRemove the "runDataBase" field and declare it as a local variable in the relevant methods.(ÚÄ¨”8ÄŠó—Ê1
+W
+java:S1161,":Add the "@Override" annotation above this method signature(«ÃÀ÷8ÄŠó—Ê1
+r
+java:S1450J"VRemove the "mTestDb" field and declare it as a local variable in the relevant methods.(¹êõZ8ÄŠó—Ê1
+M
+java:S1874]"0Remove this use of "getColor"; it is deprecated.(·ŒÂÎ8ÓŠó—Ê1
+R
+java:S1874z"0Remove this use of "getColor"; it is deprecated.(Šï˜Åÿÿÿÿÿ8ÓŠó—Ê1
+J
+java:S1068$"(Remove this unused "list" private field.(æä˜òøÿÿÿÿ8ÓŠó—Ê1
+G
+java:S1068J"+Remove this unused "mTestDb" private field.(¹êõZ8ÓŠó—Ê1

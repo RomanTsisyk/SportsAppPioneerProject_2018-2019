@@ -1,0 +1,65 @@
+
+D
+java:S1604W"(Make this anonymous inner class a lambda(‰ªˆF8Èâ—Ê1
+F
+java:S1604†"(Make this anonymous inner class a lambda(®¼éá8Èâ—Ê1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İöëÄıÿÿÿÿ
+k	java:S116"ORename this field "ZERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÁµÙ8µÈâ—Ê1
+‡	java:S116 "fRename this field "PREMIER_JOUR_D_ENTRAINEMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ßşÿÿÿÿ8µÈâ—Ê1
+‚	java:S116!"fRename this field "DERNIER_JOUR_D_ENTRAINEMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÏô8µÈâ—Ê1
+z	java:S116""YRename this field "DELAIS_ATTENTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Õƒûÿÿÿÿ8µÈâ—Ê1
+	java:S116#"`Rename this field "str_nomDesPreferences" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹¨àûÿÿÿÿ8µÈâ—Ê1
+{	java:S116$"_Rename this field "str_TotalDeTractions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œò°8µÈâ—Ê1
+{	java:S116%"`Rename this field "str_NombreDeTractions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôíi8µÈâ—Ê1
+|	java:S116&"`Rename this field "str_PremierChargement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åçÿÂ8µÈâ—Ê1
+v	java:S116'"ZRename this field "str_JourEnCours" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¨Ÿ©8µÈâ—Ê1
+r	java:S116("QRename this field "str_ad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¿Áìúÿÿÿÿ8µÈâ—Ê1
+>
+java:S1170"!Make this final field static too.(®ÁµÙ8¶Èâ—Ê1
+C
+java:S1170 "!Make this final field static too.(¸ßşÿÿÿÿ8¶Èâ—Ê1
+>
+java:S1170!"!Make this final field static too.(ÕÏô8¶Èâ—Ê1
+C
+java:S1170""!Make this final field static too.(¹Õƒûÿÿÿÿ8¶Èâ—Ê1
+C
+java:S1170#"!Make this final field static too.(†‹¨àûÿÿÿÿ8¶Èâ—Ê1
+>
+java:S1170$"!Make this final field static too.(œò°8¶Èâ—Ê1
+=
+java:S1170%"!Make this final field static too.(Ôíi8¶Èâ—Ê1
+>
+java:S1170&"!Make this final field static too.(åçÿÂ8¶Èâ—Ê1
+>
+java:S1170'"!Make this final field static too.(ø¨Ÿ©8¶Èâ—Ê1
+C
+java:S1170("!Make this final field static too.(¡¿Áìúÿÿÿÿ8¶Èâ—Ê1
+C	java:S131[""Add a default case to this switch.(¼œóÛüÿÿÿÿ8¸Èâ—Ê1
+¤
+java:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8¸Èâ—Ê1
+G
+java:S1068"+Remove this unused "context" private field.(êİç8¸Èâ—Ê1
+E
+java:S1068"(Remove this unused "ZERO" private field.(®ÁµÙ8¸Èâ—Ê1
+a
+java:S1068 "?Remove this unused "PREMIER_JOUR_D_ENTRAINEMENT" private field.(¸ßşÿÿÿÿ8¸Èâ—Ê1
+\
+java:S1068!"?Remove this unused "DERNIER_JOUR_D_ENTRAINEMENT" private field.(ÕÏô8¸Èâ—Ê1
+T
+java:S1068""2Remove this unused "DELAIS_ATTENTE" private field.(¹Õƒûÿÿÿÿ8¸Èâ—Ê1
+[
+java:S1068#"9Remove this unused "str_nomDesPreferences" private field.(†‹¨àûÿÿÿÿ8¸Èâ—Ê1
+U
+java:S1068$"8Remove this unused "str_TotalDeTractions" private field.(œò°8¸Èâ—Ê1
+U
+java:S1068%"9Remove this unused "str_NombreDeTractions" private field.(Ôíi8¸Èâ—Ê1
+V
+java:S1068&"9Remove this unused "str_PremierChargement" private field.(åçÿÂ8¸Èâ—Ê1
+P
+java:S1068'"3Remove this unused "str_JourEnCours" private field.(ø¨Ÿ©8¸Èâ—Ê1
+L
+java:S1068("*Remove this unused "str_ad" private field.(¡¿Áìúÿÿÿÿ8ÇÈâ—Ê1
+U
+java:S1068*"8Remove this unused "preferencesPartagees" private field.(ßÅ§«8ÇÈâ—Ê1
+H
+java:S1068+"+Remove this unused "handler" private field.(Æ¶Ø…8ÇÈâ—Ê1

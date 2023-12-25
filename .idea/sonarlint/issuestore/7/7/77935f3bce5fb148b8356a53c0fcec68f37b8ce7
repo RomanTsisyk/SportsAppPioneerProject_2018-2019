@@ -1,0 +1,32 @@
+
+Q
+java:S3740U"/Provide the parametrized type for this generic.(¤ì’˜üÿÿÿÿ8Ô±õ—Ê1
+u
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ²¼j8Ô±õ—Ê1
+v
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºèØï8Ô±õ—Ê1
+v
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â–©8Ô±õ—Ê1
+|
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹€—³ÿÿÿÿÿ8Ô±õ—Ê1
+
+java:S1488`"bImmediately return this expression instead of assigning it to the temporary variable "tabInteger".(ä«Ö8Ô±õ—Ê1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒÈ¸İûÿÿÿÿ
+G
+java:S1197&"*Move the array designators [] to the type.(¦¿¥8ô±õ—Ê1
+b
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(¦¿¥8ô±õ—Ê1
+V
+java:S1854-"9Remove this useless assignment to local variable "titre".(ÂñÉ‡8ô±õ—Ê1
+G
+java:S1481-"*Remove this unused "titre" local variable.(ÂñÉ‡8ô±õ—Ê1
+t
+java:S3776f"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(šò×Øùÿÿÿÿ8„²õ—Ê1
+M
+java:S1874y"0Remove this use of "getColor"; it is deprecated.(³åÃ¨8„²õ—Ê1
+M
+java:S1874|"0Remove this use of "getColor"; it is deprecated.(ğáíå8„²õ—Ê1
+\
+java:S1068%"?Remove this unused "txtViewTitreNiveauGraphique" private field.(ôÄÍ8„²õ—Ê1
+_
+java:S1144B"BRemove this unused private "isRunDataBasePendingOrRunning" method.(ôâÚû8„²õ—Ê1

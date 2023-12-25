@@ -1,0 +1,12 @@
+
+D
+java:S1604#"(Make this anonymous inner class a lambda(žñ¸~8Ô‹Ä—Ê1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÅ…È
+v
+java:S1450"TRemove the "btnOk" field and declare it as a local variable in the relevant methods.(¬š×Öüÿÿÿÿ8ä‹Ä—Ê1
+s
+java:S1450"QRemove the "id" field and declare it as a local variable in the relevant methods.(ôç¼Óþÿÿÿÿ8ä‹Ä—Ê1
+q
+java:S1450"TRemove the "tvMsg" field and declare it as a local variable in the relevant methods.(Åõ´î8ä‹Ä—Ê1
+E
+java:S11850"(Remove this method to simply inherit it.(ÍÙ÷¢8ô‹Ä—Ê1

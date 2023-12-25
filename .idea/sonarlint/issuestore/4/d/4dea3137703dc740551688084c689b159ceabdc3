@@ -1,0 +1,60 @@
+
+s	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¸ýªüÿÿÿÿ8Ïðä˜Ê1
+E
+java:S16048"(Make this anonymous inner class a lambda(ÒÕö€8Ïðä˜Ê1
+E
+java:S1604H"(Make this anonymous inner class a lambda(é ë±8Ïðä˜Ê1
+F
+java:S1604À"(Make this anonymous inner class a lambda(„ÑñŒ8Ïðä˜Ê1
+c
+java:S2259K"FA "NullPointerException" could be thrown; "runnable" is nullable here.( Ëª¥8Þðä˜Ê1
+z	java:S116"^Rename this field "int_rowTime_display" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ž•Ï8Þðä˜Ê1
+	java:S116"cRename this field "int_total_time_in_millis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ž•Ï8Þðä˜Ê1
+w	java:S116"VRename this field "compteur_ad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄšÍ»øÿÿÿÿ8Þðä˜Ê1
+n	java:S116"RRename this field "PERCENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ ­8Þðä˜Ê1
+q	java:S116"URename this field "INT_MILLIS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¯þê8Þðä˜Ê1
+q	java:S116"URename this field "INTERVALLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÝÃ8Þðä˜Ê1
+t	java:S116"XRename this field "AJOUTE_30_SEC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õªö¢8Þðä˜Ê1
+w	java:S116"VRename this field "bln_addTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œêáúÿÿÿÿ8Þðä˜Ê1
+	java:S116"cRename this field "str_compteurEntrainement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß”Êµ8Þðä˜Ê1
+r	java:S116"QRename this field "str_ad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¿Áìúÿÿÿÿ8Þðä˜Ê1
+v	java:S116 "URename this field "btn_passer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜§ÔÃûÿÿÿÿ8Þðä˜Ê1
+y	java:S116!"XRename this field "txt_countDown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å³•äûÿÿÿÿ8Þðä˜Ê1
+>
+java:S1170"!Make this final field static too.(¥ ­8Þðä˜Ê1
+>
+java:S1170"!Make this final field static too.(Æ¯þê8Þðä˜Ê1
+>
+java:S1170"!Make this final field static too.(³ÝÃ8Þðä˜Ê1
+>
+java:S1170"!Make this final field static too.(Õªö¢8Þðä˜Ê1
+>
+java:S1170"!Make this final field static too.(ß”Êµ8Þðä˜Ê1
+C
+java:S1170"!Make this final field static too.(¡¿Áìúÿÿÿÿ8Þðä˜Ê1
+m
+java:S1659"PDeclare "int_rowTime_display" and all following declarations on a separate line.(…Ž•Ï8Þðä˜Ê1
+|
+java:S1450"ZRemove the "compteur_ad" field and declare it as a local variable in the relevant methods.(ÄšÍ»øÿÿÿÿ8Þðä˜Ê1
+s	java:S116b"RRename this field "INT_SEC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÌÏüúÿÿÿÿ8îðä˜Ê1
+~	java:S116d"]Rename this field "int_progress_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ê›ðüÿÿÿÿ8îðä˜Ê1
+C
+java:S1170b"!Make this final field static too.(¬ÌÏüúÿÿÿÿ8îðä˜Ê1
+Q
+java:S1874n"/Remove this use of "vibrate"; it is deprecated.(ÍÓ×ýøÿÿÿÿ8îðä˜Ê1
+Q
+java:S1874~"/Remove this use of "vibrate"; it is deprecated.(ÝÓßµþÿÿÿÿ8îðä˜Ê1
+E
+java:S1185 "(Remove this method to simply inherit it.(¹§ 8îðä˜Ê1
+K
+java:S1185¥"(Remove this method to simply inherit it.(èüù±ùÿÿÿÿ8îðä˜Ê1
+X
+java:S1161©":Add the "@Override" annotation above this method signature(ÍÙ÷¢8îðä˜Ê1
+Q
+java:S1068"/Remove this unused "compteur_ad" private field.(ÄšÍ»øÿÿÿÿ8îðä˜Ê1
+K
+java:S1068".Remove this unused "INT_MILLIS" private field.(Æ¯þê8îðä˜Ê1
+Y
+java:S1068#"7Remove this unused "handlertappxInterAd" private field.(ÎÜ¾¢þÿÿÿÿ8îðä˜Ê1
+M
+java:S1068b"+Remove this unused "INT_SEC" private field.(¬ÌÏüúÿÿÿÿ8îðä˜Ê1

@@ -1,0 +1,91 @@
+
+n	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿΓ‚΅8σμΚ1
+n	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έκπυ8σμΚ1
+E
+java:S1604I"(Make this anonymous inner class a lambda(θφλ8σμΚ1
+J
+java:S1604x"(Make this anonymous inner class a lambda( Ω¤£ϊÿÿÿÿ8σμΚ1
+K
+java:S1604 "(Make this anonymous inner class a lambda( Ω¤£ϊÿÿÿÿ8σμΚ1
+E
+java:S1604σ"(Make this anonymous inner class a lambda(¦‚ώC8σμΚ1
+K
+java:S1604ω"(Make this anonymous inner class a lambda(ΘΡ‰€ϋÿÿÿÿ8σμΚ1
+c
+java:S2184Z"ACast one of the operands of this division operation to a "float".(Ϋ―Σύϋÿÿÿÿ8σμΚ1
+~	java:S116""]Rename this field "REQUESTCODEWORKOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΓπΈύÿÿÿÿ8άσμΚ1
+k	java:S116#"ORename this field "ZERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ΑµΩ8άσμΚ1
+n	java:S116$"MRename this field "UN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ζίλόÿÿÿÿ8άσμΚ1
+p	java:S116%"ORename this field "DEUX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϊª‰΅ωÿÿÿÿ8άσμΚ1
+k	java:S116&"PRename this field "TROIS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Χ)8άσμΚ1
+l	java:S116'"QRename this field "QUATRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΆΪ8άσμΚ1
+k	java:S116("ORename this field "CINQ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‚Ϊά8άσμΚ1
+z	java:S116)"YRename this field "DELAIS_ATTENTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΉΥƒϋÿÿÿÿ8άσμΚ1
+j	java:S116*"NRename this field "SDK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ύƒ΄8άσμΚ1
+	java:S116+"`Rename this field "str_nomDesPreferences" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹¨ΰϋÿÿÿÿ8άσμΚ1
+{	java:S116,"_Rename this field "str_TotalDeTractions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ς°8άσμΚ1
+{	java:S116-"`Rename this field "str_NombreDeTractions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τνi8άσμΚ1
+v	java:S116."ZRename this field "str_JourEnCours" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψ¨©8άσμΚ1
+	java:S116/"cRename this field "str_compteurEntrainement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ί”Κµ8άσμΚ1
+x	java:S1160"\Rename this field "str_NiveauEnCours" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªδξ±8άσμΚ1
+r	java:S1161"QRename this field "str_ad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΅ΏΑμϊÿÿÿÿ8άσμΚ1
+w	java:S1163"VRename this field "compteur_ad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΔΝ»ψÿÿÿÿ8άσμΚ1
+w	java:S1166"[Rename this field "int_jourDuNiveau" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ί8άσμΚ1
+v	java:S116:"URename this field "flt_niveau" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’‰€μψÿÿÿÿ8άσμΚ1
+r	java:S116E"WRename this field "txtView_Jour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘”’8άσμΚ1
+C
+java:S1170""!Make this final field static too.(ΓπΈύÿÿÿÿ8άσμΚ1
+>
+java:S1170#"!Make this final field static too.(®ΑµΩ8άσμΚ1
+C
+java:S1170$"!Make this final field static too.(ζίλόÿÿÿÿ8άσμΚ1
+C
+java:S1170%"!Make this final field static too.(ϊª‰΅ωÿÿÿÿ8άσμΚ1
+=
+java:S1170&"!Make this final field static too.(‡Χ)8άσμΚ1
+=
+java:S1170'"!Make this final field static too.(ΆΪ8άσμΚ1
+>
+java:S1170("!Make this final field static too.(³‚Ϊά8άσμΚ1
+C
+java:S1170)"!Make this final field static too.(ΉΥƒϋÿÿÿÿ8άσμΚ1
+>
+java:S1170*"!Make this final field static too.(Ύƒ΄8άσμΚ1
+C
+java:S1170+"!Make this final field static too.(†‹¨ΰϋÿÿÿÿ8άσμΚ1
+>
+java:S1170,"!Make this final field static too.(ς°8άσμΚ1
+=
+java:S1170-"!Make this final field static too.(Τνi8άσμΚ1
+>
+java:S1170."!Make this final field static too.(ψ¨©8άσμΚ1
+>
+java:S1170/"!Make this final field static too.(ί”Κµ8άσμΚ1
+>
+java:S11700"!Make this final field static too.(ªδξ±8άσμΚ1
+C
+java:S11701"!Make this final field static too.(΅ΏΑμϊÿÿÿÿ8άσμΚ1
+d
+java:S1659?"GDeclare "viewSerie2" and all following declarations on a separate line.(¤¤κ8βσμΚ1
+a
+java:S1874S"DRemove this use of "removeGlobalOnLayoutListener"; it is deprecated.(Έ•8τμΚ1
+V
+java:S1874Ο"3Remove this use of "getDrawable"; it is deprecated.(εΞ¶υϋÿÿÿÿ8τμΚ1
+V
+java:S1874Π"3Remove this use of "getDrawable"; it is deprecated.(€Β‹Ψώÿÿÿÿ8τμΚ1
+[
+java:S1874Ψ"=Remove this use of "setBackgroundDrawable"; it is deprecated.(Βϋ8τμΚ1
+[
+java:S1874α"=Remove this use of "setBackgroundDrawable"; it is deprecated.(–ΝΤ8τμΚ1
+[
+java:S1874γ"=Remove this use of "setBackgroundDrawable"; it is deprecated.(Βϋ8τμΚ1
+‚
+java:S1450"dRemove the "listeDesSeriesNombres" field and declare it as a local variable in the relevant methods.(µνΠ8τσμΚ1
+T
+java:S1068)"2Remove this unused "DELAIS_ATTENTE" private field.(ΉΥƒϋÿÿÿÿ8«τμΚ1
+U
+java:S1068,"8Remove this unused "str_TotalDeTractions" private field.(ς°8«τμΚ1
+R
+java:S10680"5Remove this unused "str_NiveauEnCours" private field.(ªδξ±8«τμΚ1
+T
+java:S10687"2Remove this unused "doubleBackExit" private field.(¤±ούÿÿÿÿ8«τμΚ1

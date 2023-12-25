@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_dark"
+    android:orientation="vertical"
+    android:weightSum="10">
+
+    <TextView
+        android:id="@+id/txtViewTitreStats"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="5dp"
+        android:layout_weight="8.5"
+        android:background="@drawable/rectangle_top_statistiques"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/padding_stats_title"
+        android:text="@string/stats_by_level"
+        android:textSize="@dimen/stats_title_text_size" />
+
+    <ListView
+        android:id="@+id/listView2"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="15dp"
+        android:layout_weight="1.5"
+        android:divider="@color/bg"
+        android:dividerHeight="5dp"
+        android:focusableInTouchMode="false" />
+
+
+</LinearLayout>

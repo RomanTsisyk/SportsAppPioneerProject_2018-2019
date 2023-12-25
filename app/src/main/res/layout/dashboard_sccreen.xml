@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <LinearLayout
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="19"
+        android:background="@drawable/rectange_left_bottom_shadow"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:id="@+id/llDisplayAlramForDashboard"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="7">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingTop="3dp"
+                android:paddingRight="3dp"
+                android:paddingBottom="3dp">
+
+                <CheckBox
+                    android:id="@+id/cbLundiForDashboard"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:gravity="left|center"
+                    android:paddingTop="3dp"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:singleLine="true"
+                    android:text="@string/Lundi"
+                    android:textColor="@color/bg"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/tvTimeLundiForDashboard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:gravity="center_horizontal"
+                    android:padding="3dp"
+                    android:text="@string/heure_alarme"
+                    android:textSize="25sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="3dp">
+
+                <CheckBox
+                    android:id="@+id/cbMardiForDashboard"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:gravity="left|center"
+                    android:paddingTop="3dp"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:singleLine="true"
+                    android:text="@string/Mardi"
+                    android:textColor="@color/bg"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/tvTimeMardiForDashboard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:gravity="center_horizontal"
+                    android:padding="3dp"
+                    android:text="@string/heure_alarme"
+                    android:textSize="25sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="3dp"
+                android:paddingTop="3dp"
+                android:paddingRight="3dp"
+                android:paddingBottom="3dp">
+
+                <CheckBox
+                    android:id="@+id/cbMercrediForDashboard"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:gravity="left|center"
+                    android:paddingTop="3dp"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:text="@string/Mercredi"
+                    android:textColor="@color/bg"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/tvTimeMercrediForDashboard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:gravity="center_horizontal"
+                    android:padding="3dp"
+                    android:text="@string/heure_alarme"
+                    android:textSize="25sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="3dp">
+
+                <CheckBox
+                    android:id="@+id/cbJeudiForDashboard"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:gravity="left|center"
+                    android:paddingTop="3dp"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:text="@string/Jeudi"
+                    android:textColor="@color/bg"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/tvTimeJeudiForDashboard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:gravity="center_horizontal"
+                    android:padding="3dp"
+                    android:text="@string/heure_alarme"
+                    android:textSize="25sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingTop="3dp"
+                android:paddingRight="3dp"
+                android:paddingBottom="3dp">
+
+                <CheckBox
+                    android:id="@+id/cbVendrediForDashboard"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:gravity="left|center"
+                    android:paddingTop="3dp"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:text="@string/Vendredi"
+                    android:textColor="@color/bg"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/tvTimeVendrediForDashboard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:gravity="center_horizontal"
+                    android:padding="3dp"
+                    android:text="@string/heure_alarme"
+                    android:textSize="25sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingTop="3dp"
+                android:paddingRight="3dp"
+                android:paddingBottom="3dp">
+
+                <CheckBox
+                    android:id="@+id/cbSamediForDashboard"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:gravity="left|center"
+                    android:paddingTop="3dp"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:text="@string/Samedi"
+                    android:textColor="@color/bg"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/tvTimeSamediForDashboard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:gravity="center_horizontal"
+                    android:padding="3dp"
+                    android:text="@string/heure_alarme"
+                    android:textSize="25sp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="3dp">
+
+                <CheckBox
+                    android:id="@+id/cbDimancheForDashboard"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:gravity="left|center"
+                    android:paddingTop="3dp"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:text="@string/Dimanche"
+                    android:textColor="@color/bg"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/tvDimancheForDashboard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:gravity="center_horizontal"
+                    android:padding="3dp"
+                    android:text="@string/heure_alarme"
+                    android:textSize="25sp" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="81"
+        android:background="@color/footer_bg"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button_validate_alarm"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="15dp"
+            android:background="@drawable/bouton_rouge"
+            android:clickable="true"
+            android:paddingLeft="@dimen/btn_training_left_padding"
+            android:paddingTop="@dimen/btn_training_top_padding"
+            android:paddingRight="@dimen/btn_training_right_padding"
+            android:paddingBottom="@dimen/btn_training_bottom_padding"
+            android:text="@string/validate"
+            android:textColor="@color/snow_light"
+            android:textSize="@dimen/btn_training_text_size"
+            android:typeface="sans" />
+    </RelativeLayout>
+
+</LinearLayout>

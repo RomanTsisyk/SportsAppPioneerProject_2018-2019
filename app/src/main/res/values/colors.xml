@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- sand -->
+    <!-- orange -->
+    <color name="orange_light">#ffbfa8</color>
+    <!-- candy -->
+    <color name="candy_dark">#bf505a</color>
+    <!-- blossom -->
+    <!-- grape -->
+    <!-- deep -->
+    <color name="deep_darker">#232b35</color>
+    <!-- sky -->
+    <!-- grass -->
+    <color name="grass_primary">#2ab081</color>
+    <!-- dark -->
+    <color name="dark_darker">#050505</color>
+    <color name="dark_dark">#202020</color>
+    <color name="dark_light">#a3a3a3</color>
+    <!-- snow -->
+    <color name="snow_light">#fafafa</color>
+    <!-- sea -->
+    <!-- blood -->
+    <color name="bg_sweep">#49525c</color>
+    <!-- App style -->
+    <color name="bg">#E2397E</color>
+    <color name="action_bar">#454545</color>
+    <color name="footer_btn">#E13838</color>
+    <color name="footer_bg">#3f4348</color>
+    <!-- RadialTimePicker Color -->
+    <color name="mdtp_accent_color">#1ABC9C</color>
+    <color name="mdtp_accent_color_dark">#F52C2C</color>
+
+
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+
+    <color name="colorAccent">#FF4081</color>
+</resources>

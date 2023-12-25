@@ -1,0 +1,14 @@
+
+^
+java:S21845"ACast one of the operands of this division operation to a "float".(«¥¤¬8¢¯­—Ê1
+^
+java:S21845"ACast one of the operands of this division operation to a "float".(«¥¤¬8¢¯­—Ê1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÖõÿÿÿÿÿ
+x	java:S116"WRename this field "CONST_RADIUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â÷à“ıÿÿÿÿ8²¯­—Ê1
+x	java:S116"\Rename this field "CONST_RECT_WEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“è‡­8²¯­—Ê1
+x	java:S116"\Rename this field "CONST_LEFT_RECT_W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°…ÔŞ8²¯­—Ê1
+y	java:S116"]Rename this field "CONST_RIGHT_RECT_W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó ¬8²¯­—Ê1
+v	java:S116"ZRename this field "MIN_LEFT_RECT_W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‚ğ¶8²¯­—Ê1
+|	java:S116"[Rename this field "MAX_RIGHT_RECT_W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‚ÜÁûÿÿÿÿ8²¯­—Ê1
+R
+java:S1874)"0Remove this use of "getColor"; it is deprecated.(Š‰Ùøÿÿÿÿ8Á¯­—Ê1

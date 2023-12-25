@@ -1,0 +1,18 @@
+
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è»æÉùÿÿÿÿ8ÅÐô˜Ê1
+n	java:S101("MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸Š˜éüÿÿÿÿ8ÅÐô˜Ê1
+n	java:S1012"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ìõµƒÿÿÿÿÿ8ÅÐô˜Ê1
+d	java:S116"ORename this field "ZERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÁµÙ
+z	java:S116"`Rename this field "str_nomDesPreferences" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹¨àûÿÿÿÿ
+p	java:S116"[Rename this field "str_baseDeDonnee" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åûœè
+u	java:S116"YRename this field "bln_laDbExiste" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‰Â­8„Ñô˜Ê1
+7
+java:S1170"!Make this final field static too.(®ÁµÙ
+<
+java:S1170"!Make this final field static too.(†‹¨àûÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(Åûœè
+c
+java:S1854A"ARemove this useless assignment to local variable "baseDeDonnees".(ò¶óøÿÿÿÿ8ˆÑô˜Ê1
+R
+java:S2209<"5Change this instance-reference to a static reference.(‚ÊÇ8ˆÑô˜Ê1

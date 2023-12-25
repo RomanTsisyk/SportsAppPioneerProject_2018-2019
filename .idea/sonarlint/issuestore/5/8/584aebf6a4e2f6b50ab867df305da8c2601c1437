@@ -1,0 +1,54 @@
+
+M
+java:S1066•"/Merge this if statement with the enclosing one.(ĞìÇÜ8 ±…˜Ê1
+M
+java:S1874="0Remove this use of "getColor"; it is deprecated.(íƒáê8ë²…˜Ê1
+M
+java:S1874>"0Remove this use of "getColor"; it is deprecated.(åÔ„ª8ë²…˜Ê1
+R
+java:S1874@"0Remove this use of "getColor"; it is deprecated.(„íß ûÿÿÿÿ8ë²…˜Ê1
+_
+java:S1874V"=Remove this use of "setBackgroundDrawable"; it is deprecated.(çÜûÈûÿÿÿÿ8ë²…˜Ê1
+b
+java:S1874\"@Remove this use of "getScaledPagingTouchSlop"; it is deprecated.(Û¯òùÿÿÿÿ8ë²…˜Ê1
+u
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÕÆ¾ùıÿÿÿÿ8û²…˜Ê1
+p
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ºµÇ¨8û²…˜Ê1
+X
+java:S1161€":Add the "@Override" annotation above this method signature(ºµÇ¨8û²…˜Ê1
+Q
+java:S1874ˆ"3Remove this use of "ACTION_MASK"; it is deprecated.(ÜÆ¢¸8û²…˜Ê1
+D	java:S131‰""Add a default case to this switch.(ë´åİşÿÿÿÿ8û²…˜Ê1
+Q
+java:S1874‹"4Remove this use of "getPointerId"; it is deprecated.(šöäI8û²…˜Ê1
+[
+java:S1874"8Remove this use of "findPointerIndex"; it is deprecated.(Ïâ»øÿÿÿÿ8û²…˜Ê1
+J
+java:S1874‘",Remove this use of "getX"; it is deprecated.(ûÔŒ8û²…˜Ê1
+^
+java:S1874¾";Remove this use of "ACTION_POINTER_DOWN"; it is deprecated.(õÑÆÁşÿÿÿÿ8û²…˜Ê1
+Y
+java:S1874¿"6Remove this use of "getActionIndex"; it is deprecated.(ˆÏ¬šÿÿÿÿÿ8û²…˜Ê1
+O
+java:S1874À",Remove this use of "getX"; it is deprecated.(§ôã÷øÿÿÿÿ8û²…˜Ê1
+R
+java:S1874Á"4Remove this use of "getPointerId"; it is deprecated.(È‹‘™8û²…˜Ê1
+V
+java:S1874Å"9Remove this use of "ACTION_POINTER_UP"; it is deprecated.(‘‚Ó"8û²…˜Ê1
+T
+java:S1874Æ"6Remove this use of "getActionIndex"; it is deprecated.(……»Ú8û²…˜Ê1
+R
+java:S1874Ç"4Remove this use of "getPointerId"; it is deprecated.(¨¤Ê8û²…˜Ê1
+W
+java:S1874Ê"4Remove this use of "getPointerId"; it is deprecated.(°ÎÉÈúÿÿÿÿ8û²…˜Ê1
+O
+java:S1874Ì",Remove this use of "getX"; it is deprecated.(ëñı›øÿÿÿÿ8û²…˜Ê1
+[
+java:S1874Ì"8Remove this use of "findPointerIndex"; it is deprecated.(ëñı›øÿÿÿÿ8û²…˜Ê1
+]
+java:S1874Ù"?Remove this use of "setOnPageChangeListener"; it is deprecated.(°¥ú8û²…˜Ê1
+]
+java:S1874ß"?Remove this use of "setOnPageChangeListener"; it is deprecated.(íşÄÄ8û²…˜Ê1
+ä
+java:S6541€"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 71 to 64, Complexity from 25 to 14, Nesting Level from 4 to 2, Number of Variables from 13 to 6.(ºµÇ¨8‹³…˜Ê1

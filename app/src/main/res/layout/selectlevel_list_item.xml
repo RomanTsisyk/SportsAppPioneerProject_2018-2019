@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LevelBackGround"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/validate_select_level"
+    android:divider="@color/bg"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:weightSum="6">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="top|bottom"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1.98"
+        android:gravity="left|center_vertical|fill_vertical"
+        android:textColor="@color/bg"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/series"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="3.20"
+        android:gravity="center_vertical|fill_vertical|center_horizontal"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/numeroDuJour"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:layout_gravity="bottom|right"
+        android:width="1dp"
+        android:gravity="end"
+        android:password="false"
+        android:textColor="#606060"
+        android:visibility="invisible" />
+</LinearLayout>
+
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/bg"
+        android:clickable="true"
+        android:focusable="true"
+        android:orientation="vertical"
+        android:weightSum="4">
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/txtView_topRectangle"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/bouton_rouge"
+            android:drawableLeft="@drawable/ic_trophy"
+            android:paddingLeft="24dp"
+            android:text="gsmbilling"
+            android:textColor="@color/mdtp_white"
+            android:textSize="24sp" />
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/gifImageView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:background="@drawable/squats"
+            android:visibility="visible"
+            tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+        <Button
+            android:id="@+id/cardTypeBtn"
+            style="@style/ButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:text="Fragments"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:checked="true"
+            android:text="Scale"
+            android:visibility="invisible" />
+
+
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_gravity="bottom"
+        android:clipToPadding="false"
+        android:overScrollMode="always"
+        android:paddingStart="@dimen/card_padding"
+        android:paddingLeft="@dimen/card_padding"
+        android:paddingEnd="@dimen/card_padding"
+        android:paddingRight="@dimen/card_padding"
+        android:paddingBottom="100dp" />
+
+
+    <Button
+        android:id="@+id/btn_entrainement"
+        android:layout_width="fill_parent"
+        android:layout_height="64dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="bottom"
+        android:layout_margin="15dp"
+        android:background="@drawable/bouton_rouge"
+        android:clickable="true"
+        android:paddingLeft="@dimen/btn_training_left_padding"
+        android:paddingTop="@dimen/btn_training_top_padding"
+        android:paddingRight="@dimen/btn_training_right_padding"
+        android:paddingBottom="@dimen/btn_training_bottom_padding"
+        android:text="@string/btn_entrainement"
+        android:textColor="@color/snow_light"
+        android:textSize="@dimen/btn_training_text_size"
+        android:typeface="sans" />
+
+</android.support.design.widget.CoordinatorLayout>

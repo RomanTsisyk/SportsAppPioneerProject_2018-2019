@@ -1,0 +1,24 @@
+
+Q
+java:S10664"/Merge this if statement with the enclosing one.(ŸÙˆÖûÿÿÿÿ8‘¯Ð—Ê1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÅ…È8‘¯Ð—Ê1
+G
+java:S1659"*Declare "mReminderDay" on a separate line.(ø‡ß²8‘¯Ð—Ê1
+s
+java:S1450"QRemove the "id" field and declare it as a local variable in the relevant methods.(ôç¼Óþÿÿÿÿ8‘¯Ð—Ê1
+x
+java:S1450"[Remove the "mReminderDay" field and declare it as a local variable in the relevant methods.(ø‡ß²8‘¯Ð—Ê1
+r
+java:S1450"URemove the "mToday" field and declare it as a local variable in the relevant methods.(ø‡ß²8‘¯Ð—Ê1
+Z
+java:S1854("=Remove this useless assignment to local variable "outFormat".(â­ŒÔ8 ¯Ð—Ê1
+K
+java:S1481(".Remove this unused "outFormat" local variable.(â­ŒÔ8 ¯Ð—Ê1
+P
+java:S1874B".Remove this use of "<init>"; it is deprecated.(Üƒ÷ýùÿÿÿÿ8°¯Ð—Ê1
+Y
+java:S1874M"7Remove this use of "getNotification"; it is deprecated.(„ß‰½üÿÿÿÿ8°¯Ð—Ê1
+a
+java:S1854d"?Remove this useless assignment to local variable "affectedRow".(°Ûñ³ûÿÿÿÿ8°¯Ð—Ê1
+R
+java:S1481d"0Remove this unused "affectedRow" local variable.(°Ûñ³ûÿÿÿÿ8°¯Ð—Ê1

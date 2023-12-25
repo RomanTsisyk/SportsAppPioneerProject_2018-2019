@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÖõÿÿÿÿÿ
+R
+java:S1874"0Remove this use of "getColor"; it is deprecated.(Ó¾ıØúÿÿÿÿ8ˆ´©—Ê1
+o
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¸µò×8ˆ´©—Ê1

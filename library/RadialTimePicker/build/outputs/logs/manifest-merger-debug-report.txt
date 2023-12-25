@@ -1,0 +1,22 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml:16:1-21:12
+INJECTED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml:16:1-21:12
+	package
+		INJECTED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml:18:22-63
+application
+ADDED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml:20:5-20
+uses-sdk
+INJECTED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml
+INJECTED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\account_Smart_Sport_apps\01 Squats Challenge\library\RadialTimePicker\src\main\AndroidManifest.xml

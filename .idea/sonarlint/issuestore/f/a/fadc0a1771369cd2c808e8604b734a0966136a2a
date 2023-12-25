@@ -1,0 +1,7 @@
+
+m
+java:S1104 "PMake type a static final constant or non-public and provide accessors if needed.(ûöå©8™Ç«—Ê1
+s
+java:S1104!"QMake value a static final constant or non-public and provide accessors if needed.(¼Á’Øıÿÿÿÿ8™Ç«—Ê1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÖõÿÿÿÿÿ
+D	java:S131""Add a default case to this switch.(”ïùÿÿÿÿ8©Ç«—Ê1

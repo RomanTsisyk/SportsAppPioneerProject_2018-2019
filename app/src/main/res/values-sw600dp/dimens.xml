@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--- ACTIVITY ACCUEIL -->
+    <!-- element left and right margin -->
+
+    <!-- top rectangle -->
+
+    <!-- LinearLayout ActiviteAccueil Activity -->
+
+    <!-- nbr_TextView -->
+
+
+    <!-- Training Button -->
+
+    <dimen name="btn_training_left_padding">15dp</dimen>
+    <dimen name="btn_training_right_padding">18dp</dimen>
+    <dimen name="btn_training_top_padding">15dp</dimen>
+    <dimen name="btn_training_bottom_padding">15dp</dimen>
+
+    <dimen name="btn_training_text_size">35sp</dimen>
+    <!--- ACTIVITY ACCUEIL -->
+
+    <!-- ACTIVITY PREWORKOUT -->
+    <integer name="top_layout_weight">30</integer>
+    <integer name="bottom_layout_weight">70</integer>
+
+    <dimen name="preworkout_text_size">60sp</dimen>
+    <dimen name="txtinfo_text_size">30sp</dimen>
+
+    <dimen name="total_nbr_text_size">60sp</dimen>
+    <dimen name="total_text_text_size">35sp</dimen>
+
+    <!-- ACTIVITY WORKOUT -->
+
+    <!-- LinearLAyout Serie -->
+    <dimen name="currentSerie_TextSize">290dp</dimen>
+    <dimen name="txt_level_size">16dp</dimen>
+    <dimen name="pullup_negative_text_size">35dp</dimen>
+
+    <!-- ACTIVITY STATS -->
+    <dimen name="padding_stats_title">100dp</dimen>
+    <dimen name="stats_title_text_size">30dp</dimen>
+
+
+</resources>

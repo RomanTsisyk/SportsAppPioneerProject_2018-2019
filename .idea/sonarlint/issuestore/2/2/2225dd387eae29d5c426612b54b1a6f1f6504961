@@ -1,0 +1,81 @@
+
+v
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı£²8š™»—Ê1
+d
+java:S1192Ï"FDefine a constant instead of duplicating this literal "10:00" 7 times.(Ñ€±¶8Ö™¬˜Ê1
+E
+java:S16045"(Make this anonymous inner class a lambda(¢ºä¶8Ö™¬˜Ê1
+J
+java:S1604d"(Make this anonymous inner class a lambda(‹ÎÚ»ùÿÿÿÿ8š™»—Ê1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÅ…È8š™»—Ê1
+m
+java:S1659"PDeclare "cbMardiForDashboard" and all following declarations on a separate line.(„™¸Ë8É™»—Ê1
+r
+java:S1659!"PDeclare "tvMardiForDashboard" and all following declarations on a separate line.(»ı¸Óşÿÿÿÿ8É™»—Ê1
+v
+java:S1450*"YRemove the "currentDay" field and declare it as a local variable in the relevant methods.(¯ÿÅ8É™»—Ê1
+‚
+java:S14502"`Remove the "mTimePickerDialog" field and declare it as a local variable in the relevant methods.(Á”¥Æøÿÿÿÿ8É™»—Ê1
+Y
+java:S1874("7Remove this use of "FragmentManager"; it is deprecated.(î›äÿÿÿÿÿ8Ú“™Ê1
+C	java:S131;""Add a default case to this switch.(áˆŒúùÿÿÿÿ8…š¬˜Ê1
+_
+java:S1854r"BRemove this useless assignment to local variable "mCurrentMinute".(‘õÆ8Ù™»—Ê1
+]
+java:S1854q"@Remove this useless assignment to local variable "mCurrentHour".(¦‰ãè8Ù™»—Ê1
+N
+java:S1481q"1Remove this unused "mCurrentHour" local variable.(¦‰ãè8Ù™»—Ê1
+P
+java:S1481r"3Remove this unused "mCurrentMinute" local variable.(‘õÆ8Ù™»—Ê1
+D	java:S131¥""Add a default case to this switch.(Ÿ¶éæüÿÿÿÿ8…š¬˜Ê1
+p	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÇ±ãúÿÿÿÿ8…š¬˜Ê1
+X
+java:S2209Ç"5Change this instance-reference to a static reference.(˜ĞçŞÿÿÿÿÿ8…š¬˜Ê1
+D	java:S131Í""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ8”š¬˜Ê1
+X
+java:S2209õ"5Change this instance-reference to a static reference.(˜ĞçŞÿÿÿÿÿ8”š¬˜Ê1
+Z
+java:S1854ş"<Remove this useless assignment to local variable "isDelete".(¡Ø‚ 8”š¬˜Ê1
+K
+java:S1481ş"-Remove this unused "isDelete" local variable.(¡Ø‚ 8”š¬˜Ê1
+p
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¡é††8šš¬˜Ê1
+[
+java:S1854Ÿ"=Remove this useless assignment to local variable "isDeleted".(˜Ä¦«8šš¬˜Ê1
+[
+java:S1854§"=Remove this useless assignment to local variable "isDeleted".(ÏÑ…»8šš¬˜Ê1
+[
+java:S1854¯"=Remove this useless assignment to local variable "isDeleted".(Òµ««8š¬˜Ê1
+[
+java:S1854·"=Remove this useless assignment to local variable "isDeleted".(ĞİŞ÷8š¬˜Ê1
+`
+java:S1854¿"=Remove this useless assignment to local variable "isDeleted".(Ó´‘Îùÿÿÿÿ8š¬˜Ê1
+[
+java:S1854Ç"=Remove this useless assignment to local variable "isDeleted".(Æ–”8ª«¾—Ê1
+`
+java:S1854Ï"=Remove this useless assignment to local variable "isDeleted".(Á´åøÿÿÿÿ8ª«¾—Ê1
+D	java:S131™""Add a default case to this switch.(×“¾ñùÿÿÿÿ8š¬˜Ê1
+L
+java:S1481Ÿ".Remove this unused "isDeleted" local variable.(˜Ä¦«8Šåª˜Ê1
+L
+java:S1481§".Remove this unused "isDeleted" local variable.(ÏÑ…»8 š¬˜Ê1
+L
+java:S1481¯".Remove this unused "isDeleted" local variable.(Òµ««8¡š¬˜Ê1
+L
+java:S1481·".Remove this unused "isDeleted" local variable.(ĞİŞ÷8¡š¬˜Ê1
+Q
+java:S1481¿".Remove this unused "isDeleted" local variable.(Ó´‘Îùÿÿÿÿ8¡š¬˜Ê1
+L
+java:S1481Ç".Remove this unused "isDeleted" local variable.(Æ–”8¡š¬˜Ê1
+Q
+java:S1481Ï".Remove this unused "isDeleted" local variable.(Á´åøÿÿÿÿ8¡š¬˜Ê1
+X
+java:S1874Ù":Remove this use of "getFragmentManager"; it is deprecated.(³ ş8‰“™Ê1
+F
+java:S1185è"(Remove this method to simply inherit it.(ÍÙ÷¢8º«¾—Ê1
+\
+java:S3398İ">Move this method into the anonymous class declared at line 53.(Î‡æ8º«¾—Ê1
+U
+java:S1068("3Remove this unused "fragmentManager" private field.(î›äÿÿÿÿÿ8ø™»—Ê1
+K
+java:S1068*".Remove this unused "currentDay" private field.(¯ÿÅ8ø™»—Ê1

@@ -1,0 +1,19 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÅ…È8ûàÔ—Ê1
+x
+java:S1450"\Remove the "mAllAlarmList" field and declare it as a local variable in the relevant methods.(Éãçd8¥“Õ—Ê1
+`
+java:S11551">Use isEmpty() to check whether the collection is empty or not.(Œºåàýÿÿÿÿ8´“Õ—Ê1
+W
+java:S2209c"5Change this instance-reference to a static reference.(˜ÐçÞÿÿÿÿÿ8´“Õ—Ê1
+Y
+java:S1854l"<Remove this useless assignment to local variable "isDelete".(¡Ø‚ 8´“Õ—Ê1
+J
+java:S1481l"-Remove this unused "isDelete" local variable.(¡Ø‚ 8´“Õ—Ê1
+h
+java:S1117m"FRename "nextOccurrenceDate" which hides the field declared at line 29.(³†À‚ûÿÿÿÿ8´“Õ—Ê1
+}
+java:S3923s"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Ú©ŽÚÿÿÿÿÿ8´“Õ—Ê1
+]	java:S125t"<This block of commented-out lines of code should be removed.(Ì§ìêþÿÿÿÿ8´“Õ—Ê1
+]	java:S125v"<This block of commented-out lines of code should be removed.(–Ó“úÿÿÿÿ8´“Õ—Ê1
+]	java:S125z"<This block of commented-out lines of code should be removed.(–Ó“úÿÿÿÿ8´“Õ—Ê1

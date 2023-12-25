@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        tools:replace="android:icon">
+
+        <activity
+            android:name="io.github.smartsportapps.app1.SplashScreen"
+            android:screenOrientation="fullSensor"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="io.github.smartsportapps.app1.ActiviteTest"
+            android:label="@string/test_label"
+            android:screenOrientation="fullSensor">
+            <intent-filter>
+                <action android:name="my.activity.ActiviteTest" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="io.github.smartsportapps.app1.ActiviteAccueil"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="fullSensor"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="my.activity.ActiviteAccueil" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="io.github.smartsportapps.app1.ActiviteEntrainement"
+            android:label="@string/btn_entrainement"
+            android:screenOrientation="fullSensor">
+            <intent-filter>
+                <action android:name="my.activity.ActiviteEntrainement" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="io.github.smartsportapps.app1.ActiviteStatistiques"
+            android:label="@string/stats_label"
+            android:screenOrientation="fullSensor">
+            <intent-filter>
+                <action android:name="my.activity.ActiviteStatistiques" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="io.github.smartsportapps.app1.ActiviteAvantEntrainement"
+            android:label="@string/app_name"
+            android:screenOrientation="fullSensor">
+            <intent-filter>
+                <action android:name="my.activity.ActiviteAvantEntrainement" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="io.github.smartsportapps.app1.ActiviteChoixDuNiveau"
+            android:label="@string/select_level_label"
+            android:screenOrientation="fullSensor">
+            <intent-filter>
+                <action android:name="my.activity.ActiviteChoixDuNiveau" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="io.github.smartsportapps.app1.ActiviteCompteARebours"
+            android:label="@string/rest"
+            android:screenOrientation="fullSensor">
+            <intent-filter>
+                <action android:name="my.activity.ActiviteCompteARebours" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="io.github.smartsportapps.app1.Alarm.AlarmActivity"
+            android:label="@string/alarme"
+            android:screenOrientation="fullSensor">
+            <intent-filter>
+                <action android:name="my.activity.AlarmActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="io.github.smartsportapps.app1.Alarm.MyReceiver"
+            android:enabled="true"
+            android:exported="true" />
+        <receiver
+            android:name="io.github.smartsportapps.app1.Alarm.ResetAlarmReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"></action>
+            </intent-filter>
+        </receiver>
+
+        <service android:name="io.github.smartsportapps.app1.Alarm.ResetAlarmService"></service>
+    </application>
+
+</manifest>

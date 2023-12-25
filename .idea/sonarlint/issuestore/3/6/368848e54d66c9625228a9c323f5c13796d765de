@@ -1,0 +1,11 @@
+
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¶¥¢8•Õ—˜Ê1
+m	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İéÑÒ8Æò¥—Ê1
+m	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ºğ£8¨•˜Ê1
+r	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚêÈùÿÿÿÿ8æ¾•˜Ê1
+m	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÊ•ì8”Õ•˜Ê1
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¦Åıÿÿÿÿ8¢–˜Ê1
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íãØøÿÿÿÿ8„´–˜Ê1
+r	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠæÌÛùÿÿÿÿ8à»—˜Ê1
+L
+java:S1197E"*Move the array designators [] to the type.(ÓÍ™Öùÿÿÿÿ8Õò¥—Ê1

@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÅ…È
+s
+java:S2095"QUse try-with-resources or close this "AssetFileDescriptor" in a "finally" clause.(ÿÀßÉùÿÿÿÿ8¦ïÇ—Ê1
+a
+java:S2147#"DCombine this catch with the one at line 33, which has the same body.(‚ùïÄ8¦ïÇ—Ê1
+a
+java:S2147%"DCombine this catch with the one at line 35, which has the same body.(ï­£Ä8¦ïÇ—Ê1

@@ -1,0 +1,11 @@
+
+{
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤·³¿úÿÿÿÿ8÷¸ğ—Ê1
+r	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞœÆúÿÿÿÿ8÷¸ğ—Ê1
+l	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¼)8÷¸ğ—Ê1
+r	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞœÆúÿÿÿÿ8÷¸ğ—Ê1
+l	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¼)8÷¸ğ—Ê1
+s	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ŸÄÍşÿÿÿÿ8÷¸ğ—Ê1
+n	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıøÖÀ8÷¸ğ—Ê1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ¶‡ï
+s	java:S116"RRename this field "int_day" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÔıÿÿÿÿ8¶¹ğ—Ê1

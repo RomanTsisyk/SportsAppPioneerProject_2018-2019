@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Dimanche">Sunday</string>
+    <string name="Lundi">Monday</string>
+    <string name="Jeudi">Thursday</string>
+    <string name="Mardi">Tuesday</string>
+    <string name="Mercredi">Wednesday</string>
+    <string name="Samedi">Saturday</string>
+    <string name="Vendredi">Friday</string>
+    <string name="about">About</string>
+    <string name="alarme">Alarm</string>
+    <string name="annuler">Cancel</string>
+    <string name="btn_demarrer">Start</string>
+    <string name="btn_entrainement">Training</string>
+    <string name="btn_passer">Skip</string>
+    <string name="chooseHour">Chose the hour</string>
+    <string name="choose_day">Chose day of training</string>
+    <string name="complet">Complete</string>
+    <string name="conseil">Advise</string>
+    <string name="deleteData">Reset</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="error_edtText_empty">Push-up field empty</string>
+    <string name="exercices">Exercices</string>
+    <string name="lastDay">Congratulations, you have terminated the training scheduel. You should be
+        able to do 100 push ups in a row
+    </string>
+    <string name="level">Level</string>
+    <string name="levelTest">Level test</string>
+    <string name="level_select">Choose level</string>
+    <string name="lost_progression">Progression lost</string>
+    <string name="messageRepos">Rest a least one day before the next training</string>
+    <string name="nbr_tractions">Number of Push-ups</string>
+    <string name="negativeFalse">Warm-up before doing the training series. Go to \"Exercices"\
+        section for more advises and exemples
+    </string>
+    <string name="negativeTrue">Carfull!!! You will neeed to do negatives Push-ups. Go to
+        \"Exercices section for exemple
+    </string>
+    <string name="negatives">negatives</string>
+    <string name="next">Next</string>
+    <string name="next_day">Next day</string>
+    <string name="no_level_selected">No day chosen</string>
+    <string name="notification_content">It\'s time to train</string>
+    <string name="notification_title">Training day</string>
+    <string name="play_video">See the movie for more advice</string>
+    <string name="pressAgain">Press again to leave</string>
+    <string name="previous">Previous</string>
+    <string name="rest">Rest</string>
+    <string name="same_day">Repeat training day</string>
+    <string name="selectDay">Select a day</string>
+    <string name="select_level_label">Select Level</string>
+    <string name="share">Share</string>
+    <string name="stats_by_day">Statistics by day</string>
+    <string name="stats_by_level">Statistics by level</string>
+    <string name="stats_label">Statistics</string>
+    <string name="str_backToMain">Validate to get back. Progression will be lost</string>
+    <string name="exercices_label">Exercices</string>
+    <string name="vote">Rate the app</string>
+    <string name="validate">Validate</string>
+    <string name="total">Total</string>
+    <string name="test_label">Initial test</string>
+    <string name="testQuitter">After</string>
+    <string name="testAller">Let\'s go</string>
+    <string name="termine">Finished</string>
+    <string name="str_entrainement_termine">Training day completed</string>
+    <string name="str_bravo">Congratulation. Rest before next training day</string>
+    <string name="str_backtoTraining">Press again to continue training</string>
+    <string name="testMessage">You are going to run a test to define your level. Warm-up 3 to 5
+        minutes before doing max Push-up you can. If you can\'t do one Push-ups please enter \"0\"
+    </string>
+    <string name="TitleLevel">"LEVEL %1$.1f"</string>
+    <string name="displayLevelFormatComa">LEVEL %1$.1f"</string>
+    <string name="displayLevelFormat">LEVEL %1$.0f"</string>
+    <string name="displayDayActiviteChoixDuNiveau">"Day %1$d"</string>
+    <string name="end_training">END</string>
+    <string name="pull_up">Push-ups</string>
+    <string name="congratulations">Congrats!</string>
+    <string name="niveauSelectionne">Level %1$.1f selected</string>
+    <string name="recordDeTraction">"Personal record of %1$d Push-ups"</string>
+    <string name="share_using">Partager</string>
+    <string name="seriedujour">Series of the day</string>
+    <string name="recuperationStatistiques">Retrieving statistics</string>
+    <string name="statsTotalDeTractions">Total Push-ups</string>
+    <string name="erreurDansAffichageStatistiques">error in the statistics display</string>
+    <string name="shareText">Hey, try this application that allows you to reach 100 Push-ups -
+        http://play.google.com/store/apps/details?id=books.free.sportnumber01
+    </string>
+    <string name="shareSubject">Share</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="reinitialisation">Reset Ok!</string>
+    <string name="reminderSet">Reminder set Successfully!</string>
+    <string name="reminderNotSet">Reminder Not set Successfully!</string>
+    <string name="heure_alarme">10:00</string>
+    <string name="dialogInfo">\n\nVersion number: %1$s\nPackage name: %2$s\nEmail:
+        romantsisyk1@gmail.com\n
+    </string>
+    <string name="maj_negatives">Negatives</string>
+    <string name="muscles_chin_ups">Biceps, Rhomboid major</string>
+    <string name="muscles_negatives">Biceps, Trapezius</string>
+    <string name="maj_chin_ups">Chin ups</string>
+    <string name="maj_wide_pull_up">Wide Push-up</string>
+    <string name="maj_military_pullup">Military Push-up</string>
+    <string name="muscle_wide">Biceps, Latissimus dorsi</string>
+    <string name="muscles_military">Shoulders, Trapezius</string>
+    <string name="information">100 Pull ups is an application allowing you to reach 100 Pull ups
+        after some trainings. Don\'t forget to warm up before every training day. Please contact
+        developper if you are facing any bugs or troubles with the app.
+    </string>
+    <string name="niveau_debutant">Beginner</string>
+    <string name="niveau_standard">Standard</string>
+    <string name="niveau_avance">Advanced</string>
+    <string name="niveau_intermediaire">Intermediate</string>
+    <string name="succesfullreset">Programm reseted succefuly</string>
+    <string name="reset_confirm">Do you really want to reset all the data?</string>
+    <string name="str_BackTitle">Leave/Stop training</string>
+    <string name="str_LeaveApp">Leave application?</string>
+    <string name="str_confimLeaveApp">Are you sure do you want to leave 100 push ups</string>
+
+    <string name="error_edtText_length">Min 0 - Max 50</string>
+</resources>

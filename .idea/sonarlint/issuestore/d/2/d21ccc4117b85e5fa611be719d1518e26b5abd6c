@@ -1,0 +1,22 @@
+
+—
+java:S1319"uThe type of "alarmeObjectArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(—¯Âöüÿÿÿÿ8œ¡—Ê1
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¢€˜8ÈÆ˜Ê1
+J
+java:S1604G"(Make this anonymous inner class a lambda(Ï¾Ñşÿÿÿÿ8œ¡—Ê1
+J
+java:S1604["(Make this anonymous inner class a lambda(×£ãıÿÿÿÿ8œ¡—Ê1
+x
+java:S1104}"VMake chkBox_day a static final constant or non-public and provide accessors if needed.(ƒŠ¦èúÿÿÿÿ8œ¡—Ê1
+u
+java:S1104~"XMake txtView_hour a static final constant or non-public and provide accessors if needed.(’ÒÚ8œ¡—Ê1
+Z
+java:S18546">Remove this useless assignment to local variable "timeFormat".(İc8î ‘˜Ê1
+K
+java:S14816"/Remove this unused "timeFormat" local variable.(İc8î ‘˜Ê1
+Y
+java:S1874J"7Remove this use of "FragmentManager"; it is deprecated.(¦®ô™ùÿÿÿÿ8éÄ™Ê1
+\
+java:S1874J":Remove this use of "getFragmentManager"; it is deprecated.(¦®ô™ùÿÿÿÿ8û’™Ê1
+v	java:S116}"URename this field "chkBox_day" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒŠ¦èúÿÿÿÿ8Àœ¡—Ê1
+s	java:S116~"WRename this field "txtView_hour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÒÚ8Àœ¡—Ê1

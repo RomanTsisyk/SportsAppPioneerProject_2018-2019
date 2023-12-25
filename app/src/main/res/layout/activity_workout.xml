@@ -1,0 +1,197 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_entrainement"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical"
+    android:weightSum="100"
+    tools:context=".Entrainement">
+
+    <!-- As the main content view, the view below consumes the entire
+         space available using match_parent in both dimensions. -->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="19"
+        android:orientation="vertical"
+        android:weightSum="19">
+
+        <io.github.smartsportapps.app1.TextView.RobotoTextView
+            android:id="@+id/txtView_welcome"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_weight="16"
+            android:gravity="center_vertical|center_horizontal"
+            android:paddingBottom="10dp"
+            android:textIsSelectable="false"
+            android:textSize="33sp" />
+
+        <LinearLayout
+            android:id="@+id/relativeLayout2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="25dp"
+            android:layout_weight="3"
+            android:orientation="vertical"
+            android:weightSum="100">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="30"
+                android:background="@drawable/pre_workout_shadow_white">
+
+                <io.github.smartsportapps.app1.TextView.RobotoTextView
+                    android:id="@+id/txtView_Jour"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/line"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/deep_darker"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/line"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_below="@+id/txtView_Jour"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginBottom="2dp"
+                    android:background="@color/dark_light"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <io.github.smartsportapps.app1.TextView.FontFitTextView
+                    android:id="@+id/txtView_nombre"
+                    android:layout_width="@dimen/currentSerie_TextSize"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/line"
+                    android:layout_alignBottom="@+id/view_negative"
+                    android:layout_alignParentStart="false"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="top|center_horizontal"
+                    android:includeFontPadding="false"
+                    android:paddingBottom="5dp"
+                    android:text="13"
+                    android:textColor="@color/bg" />
+
+                <io.github.smartsportapps.app1.TextView.RobotoTextView
+                    android:id="@+id/view_negative"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="false"
+                    android:layout_alignParentTop="false"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="bottom|center_horizontal"
+                    android:singleLine="false"
+                    android:text="@string/negatives"
+                    android:textColor="@color/dark_darker"
+                    android:textSize="@dimen/pullup_negative_text_size"
+                    android:visibility="visible" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayout_series"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="70"
+                android:background="@drawable/pre_workout_shadow"
+                android:gravity="center_vertical|center_horizontal"
+                android:orientation="horizontal"
+                android:paddingLeft="15dp"
+                android:paddingTop="5dp"
+                android:paddingRight="15dp"
+                android:paddingBottom="5dp"
+                android:weightSum="5">
+
+                <io.github.smartsportapps.app1.TextView.RobotoTextView
+                    android:id="@+id/view_nbr1"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_margin="8dp"
+                    android:background="@drawable/circle_black_border"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:textSize="24sp" />
+
+                <io.github.smartsportapps.app1.TextView.RobotoTextView
+                    android:id="@+id/view_nbr2"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_margin="8dp"
+                    android:background="@drawable/circle_black_border"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:textSize="24sp" />
+
+                <io.github.smartsportapps.app1.TextView.RobotoTextView
+                    android:id="@+id/view_nbr3"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_margin="8dp"
+                    android:background="@drawable/circle_black_border"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:textSize="24sp" />
+
+                <io.github.smartsportapps.app1.TextView.RobotoTextView
+                    android:id="@+id/view_nbr4"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_margin="8dp"
+                    android:background="@drawable/circle_black_border"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:textSize="24sp" />
+
+                <io.github.smartsportapps.app1.TextView.RobotoTextView
+                    android:id="@+id/view_nbr5"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_margin="8dp"
+                    android:background="@drawable/circle_black_border"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:padding="2dp"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/footer_bg_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="81"
+        android:background="@color/footer_bg">
+
+        <Button
+            android:id="@+id/btn_valider"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="bottom|center"
+            android:layout_margin="15dp"
+            android:background="@drawable/bouton_rouge"
+            android:clickable="true"
+            android:text="@string/complet"
+            android:textColor="@color/snow_light"
+            android:textSize="25sp"
+            android:typeface="sans" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

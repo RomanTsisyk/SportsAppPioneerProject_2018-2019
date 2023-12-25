@@ -1,0 +1,65 @@
+
+s	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç˜áéÿÿÿÿÿ8â¾˜Ê1
+E
+java:S1604S"(Make this anonymous inner class a lambda(™¯·®8â¾˜Ê1
+E
+java:S1604"(Make this anonymous inner class a lambda(¦‚şC8â¾˜Ê1
+K
+java:S1604‡"(Make this anonymous inner class a lambda(ÈÑ‰€ûÿÿÿÿ8â¾˜Ê1
+K
+java:S1604Ë"(Make this anonymous inner class a lambda(ÈÑ‰€ûÿÿÿÿ8â¾˜Ê1
+K
+java:S1604ª"(Make this anonymous inner class a lambda(ÈÑ‰€ûÿÿÿÿ8â¾˜Ê1
+E
+java:S1604Ó"(Make this anonymous inner class a lambda(¦‚şC8â¾˜Ê1
+}
+java:S11046"`Make int_totalDeTractions a static final constant or non-public and provide accessors if needed.(ŸÃõ¥8â¾˜Ê1
+o	java:S101á"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úâ›‘üÿÿÿÿ8â¾˜Ê1
+k	java:S116+"ORename this field "ZERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÁµÙ8‚¾˜Ê1
+‡	java:S116,"fRename this field "PREMIER_JOUR_D_ENTRAINEMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ßşÿÿÿÿ8‚¾˜Ê1
+‚	java:S116-"fRename this field "DERNIER_JOUR_D_ENTRAINEMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÏô8‚¾˜Ê1
+z	java:S116."YRename this field "DELAIS_ATTENTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Õƒûÿÿÿÿ8‚¾˜Ê1
+	java:S116/"`Rename this field "str_nomDesPreferences" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹¨àûÿÿÿÿ8‚¾˜Ê1
+{	java:S1160"_Rename this field "str_TotalDeTractions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œò°8‚¾˜Ê1
+{	java:S1161"`Rename this field "str_NombreDeTractions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôíi8‚¾˜Ê1
+|	java:S1162"`Rename this field "str_PremierChargement" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åçÿÂ8‚¾˜Ê1
+v	java:S1163"ZRename this field "str_JourEnCours" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¨Ÿ©8‚¾˜Ê1
+r	java:S1164"QRename this field "str_ad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¿Áìúÿÿÿÿ8‚¾˜Ê1
+{	java:S1166"_Rename this field "int_totalDeTractions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÃõ¥8‚¾˜Ê1
+	java:S116:"`Rename this field "int_nombreDeTractions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¿úØúÿÿÿÿ8‚¾˜Ê1
+>
+java:S1170+"!Make this final field static too.(®ÁµÙ8‚¾˜Ê1
+C
+java:S1170,"!Make this final field static too.(¸ßşÿÿÿÿ8‚¾˜Ê1
+>
+java:S1170-"!Make this final field static too.(ÕÏô8‚¾˜Ê1
+C
+java:S1170."!Make this final field static too.(¹Õƒûÿÿÿÿ8‚¾˜Ê1
+C
+java:S1170/"!Make this final field static too.(†‹¨àûÿÿÿÿ8‚¾˜Ê1
+>
+java:S11700"!Make this final field static too.(œò°8‚¾˜Ê1
+=
+java:S11701"!Make this final field static too.(Ôíi8‚¾˜Ê1
+>
+java:S11702"!Make this final field static too.(åçÿÂ8‚¾˜Ê1
+>
+java:S11703"!Make this final field static too.(ø¨Ÿ©8‚¾˜Ê1
+C
+java:S11704"!Make this final field static too.(¡¿Áìúÿÿÿÿ8‚¾˜Ê1
+{
+java:S1450&"^Remove the "btnEntrainement" field and declare it as a local variable in the relevant methods.(ü’¡Û8‚¾˜Ê1
+\
+java:S1161E":Add the "@Override" annotation above this method signature(¨Œşÿÿÿÿ8‘¾˜Ê1
+F
+java:S1185 "(Remove this method to simply inherit it.(ÍÙ÷¢8œ¾˜Ê1
+N
+java:S1172¤"+Remove this unused method parameter "view".( —Ó›şÿÿÿÿ8¬¾˜Ê1
+T
+java:S1068."2Remove this unused "DELAIS_ATTENTE" private field.(¹Õƒûÿÿÿÿ8»¾˜Ê1
+M
+java:S10688"+Remove this unused "pressed" private field.(Ó‹ÒÊøÿÿÿÿ8»¾˜Ê1
+C
+java:S10689"&Remove this unused "ad" private field.(ñÎô×8»¾˜Ê1
+T
+java:S1068>"2Remove this unused "doubleBackExit" private field.(¤š±ïıÿÿÿÿ8»¾˜Ê1

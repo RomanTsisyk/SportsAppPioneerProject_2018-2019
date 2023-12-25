@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Défi squat. Les fesses et les jambes</string>
+    <string name="test_label">   Test initial        </string>
+    <string name="select_level_label">   Choix du niveau     </string>
+    <!-- ActiviteAccueil Activity String -->
+    <string name="btn_entrainement">   Entraînement        </string>
+    <string name="total">TOTAL</string>
+    <string name="stats">"Stats"</string>
+    <string name="lastDay">Bravo, vous avez terminé le programme d\'entraînement. </string>
+    <!-- ActiviteAvantEntrainement Activity String -->
+    <string name="btn_demarrer">   Démarrer            </string>
+    <string name="level_select">   Choix du Niveau     </string>
+    <string name="same_day">   Répéter le jour     </string>
+    <string name="next_day">   Jour suivant        </string>
+    <!-- ActiviteEntrainement Activity String -->
+    <string name="negatives">exercices</string>
+    <string name="complet">Completé</string>
+    <!-- Select Level Activity String -->
+    <string name="validate">Valider</string>
+    <string name="previous">Précédent</string>
+    <string name="next">Suivant</string>
+    <string name="no_level_selected">Aucun Jour choisi</string>
+    <string name="level">Niveau</string>
+    <!-- ActiviteCompteARebours Activity String -->
+    <string name="btn_passer">Passer</string>
+    <!-- ActiviteStatistiques Activity String -->
+    <string name="stats_label">Statistiques</string>
+    <string name="stats_by_level">Statistiques par niveau</string>
+    <string name="stats_by_day">Statistiques par jours</string>
+    <!-- Alarm Activity -->
+    <string name="Lundi">Lundi</string>
+    <string name="Mardi">Mardi</string>
+    <string name="Mercredi">Mercredi</string>
+    <string name="Jeudi">Jeudi</string>
+    <string name="Vendredi">Vendredi</string>
+    <string name="Samedi">Samedi</string>
+    <string name="Dimanche">Dimanche</string>
+    <string name="testMessage">"Vous allez effectué un test qui nous permettra de définir votre niveau. "</string>
+    <string name="annuler">Annuler</string>
+    <string name="str_backToMain">Valider pour revenir en arrière. Votre progression sera perdue</string>
+    <string name="lost_progression">Votre progression a été perdue</string>
+    <string name="negativeFalse">Prenez le temps de vous échauffer et effectuez vos exercices du mieux possible. </string>
+    <string name="negativeTrue">Attention!!! \nVous devrez faire des exercices</string>
+    <string name="selectDay">Choisissez un jour</string>
+    <string name="str_backtoTraining">Appuyez une seconde fois pour continuer l\'entraînement</string>
+    <string name="str_bravo">Bravo!\nVous avez terminé votre entraînement. Reposez-vous avant de débuter le suivant </string>
+    <string name="str_entrainement_termine">Entraînement du jour terminé</string>
+    <string name="levelTest">Test de Niveau</string>
+    <string name="nbr_tractions">Nombre</string>
+    <string name="error_edtText_empty">Champ traction vide</string>
+    <string name="error_edtText_length">Min 0 - Max 50</string>
+    <!-- Menu -->
+    <string name="alarme">Alarme</string>
+    <string name="rest">Récupération</string>
+    <string name="deleteData">Réinitialiser</string>
+    <!-- Notification -->
+    <string name="notification_title">Entraînement du jour</string>
+    <string name="notification_content">C\'est l\'heure de l\'entraînement</string>
+    <string name="displayLevelFormatComa">NIVEAU %1$.1f"</string>
+    <string name="displayLevelFormat">NIVEAU %1$.0f"</string>
+    <string name="TitleLevel">"NIVEAU %1$.1f"</string>
+    <string name="displayDayActiviteChoixDuNiveau">"Jour %1$d"</string>
+    <string name="end_training">TERMINÉ</string>
+    <string name="pull_up">répétitions</string>
+    <string name="congratulations">Bravo!!</string>
+    <string name="niveauSelectionne">Niveau %.1f selectionné</string>
+    <string name="recordDeTraction">"Votre record  %1$d "</string>
+    <string name="seriedujour">Séries du jour</string>
+    <string name="recuperationStatistiques">Récupération des statistiques</string>
+    <string name="statsTotalDeTractions">Total</string>
+    <string name="erreurDansAffichageStatistiques">Erreur dans l\'affichage des Stats</string>
+    <string name="reminderSet">Rappel ajouté avec succès!</string>
+    <string name="reminderNotSet">Erreur lors de l\'ajout du rappel</string>
+    <string name="heure_alarme">10:00</string>
+    <string name="reset_confirm">Attention êtes vous sûr de vouloir remettre à zéro la base de données?</string>
+    <string name="succesfullreset">Le programme a bien été réinitialisé </string>
+    <string name="str_BackTitle">Arrêter l\'entraînement</string>
+    <string name="str_LeaveApp">Quitter l\'application?</string>
+    <string name="str_confimLeaveApp">"Êtes-vous sûr de vouloir quitter l'application?"</string>
+</resources>
